@@ -5,7 +5,7 @@ public class main {
 
 
         byebye b1=new byebye();
-        b1.byeBYE =10;
+        b1.byeBYE =12;
     }
 
 }
