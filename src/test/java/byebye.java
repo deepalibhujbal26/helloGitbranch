@@ -1,4 +1,4 @@
 public class byebye {
-    int bye;
+    int byeBYE;
 
 }
